@@ -36,7 +36,7 @@ if(message.channel.type === 'dm') {
 
 if (message.content.startsWith("https://discord.gg/")) {
     
-  message.author.send(` دانرا تۆش ڕیکلامەکە بکە lera Link Dane`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
+  message.author.send(` دانرا تۆش ڕیکلامەکە بکە https://discord.gg/FtP2ncbFND`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
     
   client.channels.get("id Channel ").send(
 `> By: <@${message.author.id}> ✅ 
@@ -57,4 +57,4 @@ client.user.setGame(`Monty404 is here`)
 
 
 
-client.login("");// Token Lera Dane
+client.login("ODkyNDU5ODkxMDA3MDQxNTU2.YVNOCw.RJD0rEZcw57tbn9uuGc5ED2Vppg");// Token Lera Dane
