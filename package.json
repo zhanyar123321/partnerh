@@ -1,7 +1,9 @@
 {
   "name": "PARTNET BOT",
   "version": "1.0.0",
-  "description": "",
+  "description": "owner bot:@GARDIᵇˢ-ᵏᵈ#8333
+  support server : https://discord.gg/5zxUUHjN
+  invitebot :https://discord.com/api/oauth2/authorize?client_id=892459891007041556&permissions=8&scope=bot ",
   "main": "index.js",
   "dependencies": {
     "canvas": "^2.6.1",
